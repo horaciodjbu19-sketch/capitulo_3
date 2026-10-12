@@ -8,3 +8,11 @@
 
 3. El aprendizaje supervisado se utiliza para clasificación y regresión, mientras que el no supervisado se utiliza
    para agrupamiento y búsqueda de relaciones entre datos.
+
+   + # Tres similitudes:
+     
+1. Ambos son tipos de aprendizaje automático (Machine Learning).
+   
+2. Ambos utilizan datos para entrenar modelos y encontrar patrones.
+   
+3. Ambos permiten analizar información y resolver problemas mediante algoritmos.
